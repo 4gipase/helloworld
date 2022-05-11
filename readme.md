@@ -1,3 +1,3 @@
-# my first mark down
+# my first markdown
 
-first mark down's description.
+first markdown's description!
